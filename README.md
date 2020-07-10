@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 - 🌱 I’m currently learning Golang
 - 🔭 I’m currently working on Azure, Terraform, Ansible, PowerShell, Python
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fxcat/) or [use this form](https://lazywinadmin.com/about.html#contact-me)
+- 📫 How to reach me: [Twitter](https://twitter.com/lazywinadmin), [LinkedIn](https://www.linkedin.com/in/fxcat/) or [this form](https://lazywinadmin.com/about.html#contact-me)
 
 
 <!--
