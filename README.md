@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Azure, Terraform, Ansible, PowerShell, Python
 - 📫 How to reach me: [Twitter](https://twitter.com/lazywinadmin), [LinkedIn](https://www.linkedin.com/in/fxcat/) or [this form](https://lazywinadmin.com/about.html#contact-me)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lazywinadmin.lazywinadmin)
 <!--
 **lazywinadmin/lazywinadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
