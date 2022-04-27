@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently training on Elastic Stack and Kubernetes
-- 🔭 I’m currently working Azure, Terraform, Azure DevOps, Ansible, PowerShell, Python
+- 🔭 I’m currently working as a DevOps/Cloud Engineer, mainly focusing on Azure Cloud, Terraform, Azure DevOps, Ansible, PowerShell, Python, ...
+- 🌱 I’m currently learning about Stoicism
 - 📫 How to reach me: [Twitter](https://twitter.com/lazywinadmin), [LinkedIn](https://www.linkedin.com/in/fxcat/) or [this form](https://lazywinadmin.com/about.html#contact-me)
-- 🤔 2021 goals: Improve my knowledge around DevOps/SRE concepts / Contribute more to Open Source projects
-- ⚡ Fun fact: I love running and hiking...
+- 🤔 2022 goals: Contribute more to Open Source projects, and hopefully improve my DevOps/SRE knowledge along the way ...
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=lazywinadmin.lazywinadmin)
 **lazywinadmin/lazywinadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
