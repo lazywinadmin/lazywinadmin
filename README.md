@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+<!-- 
 - 🔭 Working as a Platform Eng/DevOps/Cloud Engineer, mainly focusing on Cloud tech, Terraform, Azure DevOps/Github, Ansible, PowerShell, Python, ...
 - 🌱 Learning about Stoicism
 - 📫 Reach me: [Twitter](https://twitter.com/lazywinadmin), [LinkedIn](https://www.linkedin.com/in/fxcat/) or [this form](https://lazywinadmin.com/about.html#contact-me)
 - 🤔 Current goals: Contribute more to Open Source projects, and improve SWE/DevOps knowledge along the way ...
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=lazywinadmin.lazywinadmin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lazywinadmin.lazywinadmin)
 **lazywinadmin/lazywinadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
